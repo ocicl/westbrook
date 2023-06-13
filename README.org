@@ -1,0 +1,10 @@
+* westbrook
+
+An RSS generator.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/xach/westbrook.git   |
+| commit  | ca68530  |
+| systems | westbrook |
+|---------+-------------------------------------------|
+
